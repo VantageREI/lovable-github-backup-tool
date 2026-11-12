@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+inventory.json
+inventory.csv
+BACKUP_STATUS.md
+automation-state.json
+automation-progress.jsonl
+connection-progress.jsonl
+*.jsonl
+automation.lock
+*.tmp
